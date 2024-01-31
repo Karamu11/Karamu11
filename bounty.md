@@ -23,7 +23,7 @@ getgenv().Setting = {
     },
     ["Click"] = {
         ["Enable"] = true,
-        ["Click Gun"] = false,
+        ["Click Gun"] = true,
         ["OnLowHealthDisable"] = true,
         ["LowHealth"] = 4500,
     },
@@ -61,11 +61,11 @@ getgenv().Setting = {
             },
         },
         ["Blox Fruit"] = {
-            ["Enable"] = false,
+            ["Enable"] = true,
             ["Delay"] = 1,
             ["Skills"] = {
                 ["Z"] = {
-                    ["Enable"] = false,
+                    ["Enable"] = true,
                     ["HoldTime"] = 0,
                 },
                 ["X"] = {
@@ -74,7 +74,7 @@ getgenv().Setting = {
                 },
 
                 ["C"] = {
-                    ["Enable"] = true,
+                    ["Enable"] = false,
                     ["HoldTime"] = 0,
                 },
                 ["V"] = {
@@ -82,13 +82,13 @@ getgenv().Setting = {
                     ["HoldTime"] = 0,
                 },
                 ["F"] = {
-                    ["Enable"] = true,
+                    ["Enable"] = false,
                     ["HoldTime"] = 0,
                 },
             },
         },
         ["Gun"] = {
-            ["Enable"] = false,
+            ["Enable"] = true,
             ["Delay"] = 2,
             ["Skills"] = {
                 ["Z"] = {
