@@ -61,7 +61,7 @@ getgenv().Setting = {
             },
         },
         ["Blox Fruit"] = {
-            ["Enable"] = true,
+            ["Enable"] = false,
             ["Delay"] = 1,
             ["Skills"] = {
                 ["Z"] = {
@@ -93,11 +93,11 @@ getgenv().Setting = {
             ["Skills"] = {
                 ["Z"] = {
                     ["Enable"] = true,
-                    ["HoldTime"] = 0.2,
+                    ["HoldTime"] = 0,
                 },
                 ["X"] = {
                     ["Enable"] = true,
-                    ["HoldTime"] = 0.1,
+                    ["HoldTime"] = 0,
                 },
             },
         },
@@ -107,7 +107,7 @@ getgenv().Setting = {
             ["Skills"] = {
                 ["Z"] = {
                     ["Enable"] = true,
-                    ["HoldTime"] = 0.3,
+                    ["HoldTime"] = 0,
                 },
                 ["X"] = {
                     ["Enable"] = true,
