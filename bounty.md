@@ -15,7 +15,7 @@ getgenv().Setting = {
     ["Team"] = "Pirates", --Marines,Pirates
     ["Webhook"] = {
         ["Enabled"] = true,
-        ["Url Webhook"] = "", --Your Url
+        ["Url Webhook"] = "https://discord.com/api/webhooks/1196091049773375538/-7zQtw8B81HFYnBuHnXkG7y28jcwSvwq5irUB1fZyLbw3dpAY7c-tJWPzJ5XP-knCFtT", --Your Url
     },
     ["Misc"] = {
         ["AutoBuyRandomandStoreFruit"] = true,
